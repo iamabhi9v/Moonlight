@@ -138,6 +138,10 @@ section img#mountains_front{
   text-align: justify;
 }
 
+.left{
+  position: absolute;
+}
+
 #contact{
   background: #1C0522;
   color: #FFFFFF;
